@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "4bddd180b6b513a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "afeaff7b7192318f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "089dd0e94fb248c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理大纲/版本5.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8dc938f44c402747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java实用手册/Java的编译.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10224278775dd1d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a1e8ee38cc8dcce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a4f1926404ec3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15d3965abc1ef922",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "重写",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0196a992f0cb2c3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "7e36b392026176ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45ffcc1d122b520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b548ab0885bf9e63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java实用手册/Java的编译.md"
+              }
+            }
+          },
+          {
+            "id": "1402091274c64046",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java实用手册/Java的编译.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b7ea10e52bb01dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java实用手册/Java的编译.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1219f4e9e0da5ffb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db59d633f3bd03c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "8dc938f44c402747",
+  "lastOpenFiles": [
+    "Java实用手册/wiki.md",
+    "Java实用手册/Java的编译.md",
+    "Java实用手册/Java基础语法/Java 基本数据类型.md",
+    "整理大纲/未命名 1.md",
+    "整理大纲/版本6.md",
+    "整理大纲/整理情况.md",
+    "整理大纲/版本5.md",
+    "D.txt",
+    "wiki.py~",
+    "wiki.py",
+    "新建 文本文档.py",
+    "新建 文本文档.txt",
+    "整理大纲/未命名.md",
+    "整理大纲/版本3.md",
+    "整理大纲/版本4.md",
+    "Java实用手册/Java基础语法/Java 变量类型.md",
+    "Java实用手册/Java 百科.md",
+    "Java实用手册/Java基础语法/Java 对象和类.md",
+    "Java实用手册/Java常用基础类/Java Stream、File、IO.md",
+    "整理大纲/版本2.md",
+    "Java实用手册/Java 简介.md",
+    "Java实用手册/外部链接.md",
+    "Java实用手册/多线程知识缓存区.md",
+    "Java实用手册/Java面向对象/Java 重写 (Override) 与重载 (Overload).md",
+    "Java实用手册/Java面向对象/Java 继承.md",
+    "Java实用手册/Java基础语法/Java switch case 语句.md",
+    "Java实用手册/Java基础语法/Java 正则表达式.md",
+    "Java实用手册/Java基础语法/Java 运算符.md",
+    "Java实用手册/Java基础语法/Java 异常.md",
+    "Java实用手册/Java基础语法/Java 循环结构.md",
+    "Java实用手册/Java基础语法/Java 修饰符.md",
+    "Java实用手册/附件文件夹/JVM内存结构.png",
+    "Java实用手册/附件文件夹/Pasted image 20230711224834.png",
+    "Java实用手册/附件文件夹/Pasted image 20230712180802.png",
+    "Java实用手册/附件文件夹/6c078735-7cd2-416e-951b-6c39c852becc.gif",
+    "Java实用手册/附件文件夹/Pasted image 20230712180102.png",
+    "Java实用手册/附件文件夹/Pasted image 20230712174444.png",
+    "Java实用手册/附件文件夹/Pasted image 20230712173730.png",
+    "Java实用手册/附件文件夹/Pasted image 20230712170300.png",
+    "Java实用手册/附件文件夹/Pasted image 20230712165356.png",
+    "Java实用手册/附件文件夹/Pasted image 20230712165352.png",
+    "Java实用手册/附件文件夹",
+    "Java实用手册/Java面向对象",
+    "Java实用手册/Java常用基础类",
+    "Java实用手册/Java基础语法",
+    "Java实用手册"
+  ]
+}

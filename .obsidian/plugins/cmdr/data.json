@@ -1,0 +1,74 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "editor:insert-wikilink",
+      "icon": "bracket-glyph",
+      "name": "插入内部链接",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-checklist-status",
+      "icon": "lucide-check-square",
+      "name": "切换待办事项状态",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-outliner:fold",
+      "icon": "chevrons-down-up",
+      "name": "Outliner: Fold the list",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-plugin-toc:create-toc",
+      "icon": "album",
+      "name": "Table of Contents: Create table of contents",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "obsidian-linter:lint-file",
+      "icon": "lint-file",
+      "name": "Linter: 格式化当前文件",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-linter:lint-file",
+      "icon": "lint-file",
+      "name": "Linter: 格式化当前文件",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-linter:lint-all-files-in-folder",
+      "icon": "lint-folder",
+      "name": "Linter: 格式化文件夹中的所有文件",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
