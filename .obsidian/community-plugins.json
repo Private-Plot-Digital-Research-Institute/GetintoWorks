@@ -8,5 +8,7 @@
   "table-editor-obsidian",
   "tag-wrangler",
   "obsidian-outliner",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "floating-toc",
+  "obsidian-git"
 ]
