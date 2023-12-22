@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"c84756551c3d8fd3","type":"text","text":"发布系统\n","x":-300,"y":-40,"width":250,"height":200},
+		{"id":"53864c42c2605a9a","x":-265,"y":0,"width":180,"height":70,"type":"text","text":"Puller"},
+		{"id":"546e5c50f745bdca","type":"text","text":"Publisher","x":-259,"y":82,"width":180,"height":70},
+		{"id":"f019e89749174c4b","type":"text","text":"检索系统","x":20,"y":-48,"width":250,"height":200},
+		{"id":"548bf57ea3b0ad52","type":"text","text":"Merging","x":55,"y":-8,"width":180,"height":70},
+		{"id":"368f284541b15f58","type":"text","text":"Indexer","x":61,"y":74,"width":180,"height":70},
+		{"id":"6eff22b4856b9a97","type":"text","text":"广告服务器","x":320,"y":-48,"width":250,"height":200},
+		{"id":"bfdc857cd527faae","type":"text","text":"Retrievaler\n\nScoring","x":420,"y":-8,"width":141,"height":144},
+		{"id":"60c5052dea602fac","type":"text","text":"Loader","x":329,"y":-4,"width":75,"height":140}
+	],
+	"edges":[
+		{"id":"fc82cd9da1e83223","fromNode":"c84756551c3d8fd3","fromSide":"right","toNode":"f019e89749174c4b","toSide":"left"},
+		{"id":"e3aab501637b09f0","fromNode":"f019e89749174c4b","fromSide":"right","toNode":"6eff22b4856b9a97","toSide":"left"},
+		{"id":"d0a084b3cf8be7dd","fromNode":"53864c42c2605a9a","fromSide":"right","toNode":"548bf57ea3b0ad52","toSide":"left"}
+	]
+}

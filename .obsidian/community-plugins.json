@@ -1,6 +1,4 @@
 [
-  "cmenu-plugin",
-  "obsidian-style-settings",
   "oz-image-plugin",
   "cmdr",
   "dataview",
@@ -8,7 +6,7 @@
   "table-editor-obsidian",
   "tag-wrangler",
   "obsidian-outliner",
-  "obsidian-plugin-toc",
   "floating-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot"
 ]

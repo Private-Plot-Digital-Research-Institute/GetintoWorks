@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afeaff7b7192318f",
+        "id": "218111c8fc2bb8ff",
         "type": "tabs",
         "children": [
           {
-            "id": "089dd0e94fb248c2",
+            "id": "54b61b48b8d83af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingLanguages/C++ Notes.md",
+                "file": "MachineLearningFAQ/bagu.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "重写",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 200
   },
   "right": {
     "id": "7e36b392026176ae",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingLanguages/C++ Notes.md"
+                "file": "MachineLearningFAQ/bagu.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingLanguages/C++ Notes.md",
+                "file": "MachineLearningFAQ/bagu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingLanguages/C++ Notes.md",
+                "file": "MachineLearningFAQ/bagu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,11 +129,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,57 +146,60 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "089dd0e94fb248c2",
+  "active": "54b61b48b8d83af5",
   "lastOpenFiles": [
-    "OSandNetwork/shreference.md",
-    "OSandNetwork/ThirdLibrary.md",
-    "OSandNetwork/LinuxCMDRef.md",
-    "未命名.canvas",
-    "Untitled.canvas",
-    "2023-08-28.md",
-    "ProgrammingLanguages/C++ Notes.md",
-    "ProgrammingLanguages",
-    "OSandNetwork/fioreference.md",
-    "Datascience/Pandas_Cheat_Sheet.pdf",
-    "Datascience/matplotlib & numpy ref.md",
-    "Datascience/mathnote.md",
-    "Datascience/f04456d7-8e61-482f-9cc9-da6f7f25fc9b.pdf",
-    "Datascience/cheatsheets-2.webp",
+    "Algorithm-Practice-in-Industry/搜广推优质博主文章.md",
+    "Algorithm-Practice-in-Industry/搜广推算法系列串讲.md",
+    "ObTemp/案例分析.md",
+    "MachineLearningFAQ/bagu.md",
+    "Docs/zookeeper.pdf",
     "Datascience/20210201193757556.png",
-    "Datascience/tf2.md",
-    "Datascience/SiameseNetworkAdjusting.md",
-    "Datascience/plotlyref.md",
-    "Datascience/ipynbNote.md",
-    "OSandNetwork/linuxref.md",
-    "OSandNetwork/makefilereference.md",
-    "OSandNetwork/SPDKReference.md",
-    "OSandNetwork/Understanding.The.Linux.kernel.3rd.Edition.pdf",
-    "OSandNetwork/Professional Linux Kernel Architecture.pdf",
-    "Java实用手册/wiki.md",
-    "Java实用手册/Java的编译.md",
-    "Java实用手册/Java基础语法/Java 基本数据类型.md",
-    "整理大纲/未命名 1.md",
-    "整理大纲/版本6.md",
-    "整理大纲/整理情况.md",
-    "整理大纲/版本5.md",
-    "D.txt",
-    "wiki.py~",
-    "wiki.py",
-    "新建 文本文档.py",
-    "新建 文本文档.txt",
-    "整理大纲/未命名.md",
-    "整理大纲/版本3.md",
-    "整理大纲/版本4.md",
-    "Java实用手册/附件文件夹/JVM内存结构.png",
-    "Java实用手册/附件文件夹/Pasted image 20230711224834.png",
-    "Java实用手册/附件文件夹/Pasted image 20230712180802.png",
-    "Java实用手册/附件文件夹/6c078735-7cd2-416e-951b-6c39c852becc.gif",
-    "Java实用手册/附件文件夹/Pasted image 20230712180102.png",
-    "Java实用手册/附件文件夹/Pasted image 20230712174444.png",
-    "Java实用手册/附件文件夹/Pasted image 20230712173730.png",
-    "Java实用手册/附件文件夹/Pasted image 20230712170300.png"
+    "SpecificDomain/LLM.md",
+    "SpecificDomain/AI & DS  PDI.md",
+    "SpecificDomain/自动驾驶.md",
+    "SpecificDomain/计算广告.md",
+    "SpecificDomain/广告系统架构.canvas",
+    "SpecificDomain/个人项目.md",
+    "SpecificDomain/OS.md",
+    "SpecificDomain/LLM调参经验.md",
+    "OSandNetwork/shreference.md",
+    "GameDes/分析/TotalwarShougun2.md",
+    "GameDes/分析/DysonsphereProg.md",
+    "OSandNetwork/LinuxCMDRef.md",
+    "SpecificDomain/PEFT.md",
+    "GameDes/面试题.md",
+    "OSandNetwork/Message Queue,Distributed Lock.md",
+    "Pasted image 20231013115702.png",
+    "Pasted image 20231013115634.png",
+    "Pasted image 20231013115621.png",
+    "Pasted image 20231013115609.png",
+    "Pasted image 20231013115550.png",
+    "ProgrammingLanguages/Python Note.md",
+    "ProgrammingLanguages/C++ Notes.md",
+    "OSandNetwork/ThirdLibrary.md",
+    "OSandNetwork/Design Pattern.md",
+    "OSandNetwork/fioreference.md",
+    "Imgs/v2-e01affcc4da043681738b44403425ae8_1440w.webp",
+    "Imgs/Pasted image 20230917201346.png",
+    "Imgs",
+    "Imgs/Pasted image 20231013114753.png",
+    "Imgs/Pasted image 20231013114719.png",
+    "SpecificDomain/PEFT",
+    "GameDes/个人资料.md",
+    "copilot-conversations/Chat-2023_09_17-16_48_15.md",
+    "ObTemp/gamedestemp.md",
+    "Docs",
+    "copilot-conversations",
+    "GameDes/未命名",
+    "ObTemp",
+    "GameDes/分析",
+    "未命名.canvas",
+    "Datascience/f04456d7-8e61-482f-9cc9-da6f7f25fc9b.pdf",
+    "广告定向检索介绍.pptx",
+    "Untitled.canvas"
   ]
 }
